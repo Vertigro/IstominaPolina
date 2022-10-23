@@ -14,4 +14,4 @@
 - Истомина15.09(3).py - вывод чисел Фибоначи
 - Все команда.py - что я знаю про Питон
 - https://gist.github.com/Vertigro/dec756fcd0b3d7064950bb01e6162780 - ссылка на gits
-
+- kBUBNXTCRBTDSHF;TYBZ19.10.xlsx - таблицы истинности 
