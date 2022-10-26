@@ -15,3 +15,4 @@
 - Все команда.py - что я знаю про Питон
 - https://gist.github.com/Vertigro/dec756fcd0b3d7064950bb01e6162780 - ссылка на gits
 - kBUBNXTCRBTDSHF;TYBZ19.10.xlsx - таблицы истинности 
+- рИСОВАНИЕ.png - пример работы Automatic Mouse and keyboard
