@@ -20,3 +20,4 @@
  $$F = mc^2$$ 
  # Пример закона логики 
  $$A \Delta B = (\bar A \wedge B) \vee (  A \wedge \bar B)$$ 
+![image](https://github.com/Vertigro/IstominaPolina/blob/main/lagrida_latex_editor.png)
