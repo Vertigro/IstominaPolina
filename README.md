@@ -18,3 +18,5 @@
 - рИСОВАНИЕ.png - пример работы Automatic Mouse and keyboard
 - 27.10ИстоминаЛогическоевыражение.py - Логическое выражение на Python
  $$F = mc^2$$ 
+ # Пример закона логики 
+ $$A \Delta B = (\bar A \wedge B) \vee (  A \wedge \bar B)$$ 
