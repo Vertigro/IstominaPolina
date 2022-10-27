@@ -17,3 +17,4 @@
 - kBUBNXTCRBTDSHF;TYBZ19.10.xlsx - таблицы истинности 
 - рИСОВАНИЕ.png - пример работы Automatic Mouse and keyboard
 - 27.10ИстоминаЛогическоевыражение.py - Логическое выражение на Python
+ $$F = mc^2$$ 
