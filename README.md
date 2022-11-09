@@ -21,3 +21,4 @@
  # Пример закона логики 
  $$A \Delta B = (\bar A \wedge B) \vee (  A \wedge \bar B)$$ 
 ![image](https://github.com/Vertigro/IstominaPolina/blob/main/lagrida_latex_editor.png)
+$$E^2_1 = \sqrt{\frac{(Fa^{x-1})}{(x-1)\cdot x)}} + \alpha^{\frac{1}{3}}_1 + \beta^{\frac{2}{3}}_2$$
