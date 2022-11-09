@@ -29,3 +29,7 @@
  
 $$(a+b)^2= a^2+2ab+b^2$$
 
+![image](https://github.com/Vertigro/IstominaPolina/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG)
+
+$$R = \sqrt{G\frac{m_1m_2}{F}}$$
+
