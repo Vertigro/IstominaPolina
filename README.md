@@ -25,5 +25,7 @@
  
  $$ E^2_1 = \sqrt{\frac{(Fa^{x-1})}{(x-1)\cdot x)}} + \alpha^{\frac{1}{3}}_1 + \beta^{\frac{2}{3}}_2 $$
  
+  ![image](https://github.com/Vertigro/IstominaPolina/upload/main)
+ 
 $$(a+b)^2= a^2+2ab+b^2$$
 
