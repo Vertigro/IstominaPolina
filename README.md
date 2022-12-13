@@ -35,3 +35,5 @@ $$R = \sqrt{G\frac{m_1m_2}{F}}$$
 
 ![image](https://github.com/Vertigro/IstominaPolina/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG)
 
+flowchart TB
+  node[Текст в узле]
