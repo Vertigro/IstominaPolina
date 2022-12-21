@@ -17,6 +17,7 @@
 - kBUBNXTCRBTDSHF;TYBZ19.10.xlsx - таблицы истинности 
 - рИСОВАНИЕ.png - пример работы Automatic Mouse and keyboard
 - 27.10ИстоминаЛогическоевыражение.py - Логическое выражение на Python
+- mermaid-diagram-2022-12-21-110325.png - решение задач на теорию игр с помощью mirmate
  $$F = mc^2$$ 
  # Пример закона логики 
  $$A \Delta B = (\bar A \wedge B) \vee (  A \wedge \bar B)$$ 
