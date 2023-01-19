@@ -48,7 +48,7 @@ def f82():
                 k+=1
     print(k)
     
-def f11():
+def f12():
         sp=[ ]
     for i in range(2,1000):
         n=0
