@@ -62,4 +62,12 @@ def f12():
         for y in range (100):
             if y*4+105==i:
                 print(y)
+def f14():
+    a ='0123456789bacde'
+    for x in a:
+        f = int(f'123{x}5',15)+int(f'1{x}233',15)
+        if f % 14 == 0:
+            print(x,f//14)
+            break 
 
+             
