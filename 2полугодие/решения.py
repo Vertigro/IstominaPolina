@@ -62,6 +62,12 @@ def f12():
         for y in range (100):
             if y*4+105==i:
                 print(y)
+  sp = []
+for num in range(2,1000):
+    for x in range(2, (num - 1):
+                    if all((num%x!=0)for x in range(2, (num - 1)):
+                           sp.append(num)
+               
 def f14():
     a ='0123456789bacde'
     for x in a:
